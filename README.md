@@ -44,7 +44,7 @@ URL: **heroku-app-url**
 * [ ] User can input "CODERSCHOOL" as a coupon code on the order page, which should give a 50% discount off of the order.
 * [ ] User can order more than one dish at a time.
 * [ ] User receives an email upon placing an order.
-* [ ] The Restaurant (you) receives an email or SMS when a User places an order. Try Twilio if you’d like a SMS API. Use Promo Code CodeSchool15 for $30 free credit.
+* [ ] The Restaurant (you) receives an email or SMS when a User places an order.
 
 The following **additional** features are implemented:
 
